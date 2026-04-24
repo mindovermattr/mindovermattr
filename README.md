@@ -23,6 +23,7 @@
   />
 </p>
 
+<!-- auto:github-profile:start -->
 ## Featured Projects
 
 ### [TransAction](https://github.com/mindovermattr/TransAction)
@@ -55,6 +56,7 @@ SPA test assignment built around a product catalog flow, cart state management, 
 ## Currently Exploring
 
 More opinionated full-stack TypeScript setups with modern React, Prisma-backed APIs, and multi-package repository structure.
+<!-- auto:github-profile:end -->
 
 ## GitHub Stats
 
