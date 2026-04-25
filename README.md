@@ -1,4 +1,4 @@
-<h1 align="center">mindovermattr</h1>
+<h1 align="center">Dmitry Belikov</h1>
 <p align="center">Frontend developer building TypeScript products across finance, task management, and modern web interfaces.</p>
 <p align="center">
   <img
