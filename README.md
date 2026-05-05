@@ -41,11 +41,6 @@ Kanban board for task organization with drag-and-drop flows, card comments, hist
 
 **Stack:** Vue 3, TypeScript, Pinia, Ruby on Rails, PostgreSQL, Docker
 
-### [sky](https://github.com/mindovermattr/sky)
-SPA test assignment built around a product catalog flow, cart state management, and adaptive UI structure.
-
-**Stack:** React, TypeScript, SCSS, Vite, React Router
-
 ## Focus Areas
 
 - TypeScript-first frontend and full-stack web apps
