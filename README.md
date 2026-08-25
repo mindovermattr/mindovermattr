@@ -1,11 +1,5 @@
 <h1 align="center">Dmitry Belikov</h1>
 <p align="center">Fullstack developer building TypeScript products across finance, task management, and modern web interfaces.</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=C9D1D9&center=true&vCenter=true&width=820&lines=Frontend+developer;TypeScript+apps+with+React%2C+Next.js%2C+and+Vue;Finance+dashboards%2C+Kanban+flows%2C+and+product+UIs"
-    alt="Typing intro"
-  />
-</p>
 
 ## About
 
