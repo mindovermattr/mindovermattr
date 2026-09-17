@@ -1,4 +1,3 @@
-<h1 align="center">Dmitry Belikov</h1>
 <p align="center">Fullstack developer building TypeScript products across finance, task management, and modern web interfaces.</p>
 
 ## About
@@ -35,16 +34,6 @@ Kanban board for task organization with drag-and-drop flows, card comments, hist
 
 **Stack:** Vue 3, TypeScript, Pinia, Ruby on Rails, PostgreSQL, Docker
 
-## Focus Areas
-
-- TypeScript-first frontend and full-stack web apps
-- Dashboards, analytics, and finance-oriented interfaces
-- Task workflows, boards, and productivity tooling
-- Auth, forms, state management, and structured API layers
-
-## Currently Exploring
-
-More opinionated full-stack TypeScript setups with modern React, Prisma-backed APIs, and multi-package repository structure.
 <!-- auto:github-profile:end -->
 
 ## GitHub Stats
