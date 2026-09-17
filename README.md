@@ -1,5 +1,3 @@
-<p align="center">Fullstack developer building TypeScript products across finance, task management, and modern web interfaces.</p>
-
 ## About
 
 - Building mostly with TypeScript, with public work centered on React, Next.js, Vue, and Vite.
